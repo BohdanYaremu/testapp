@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BohdanYaremu/testapp/static/css/main.07161546.chunk.css",
+    "main.js": "/BohdanYaremu/testapp/static/js/main.d4edf2ca.chunk.js",
+    "main.js.map": "/BohdanYaremu/testapp/static/js/main.d4edf2ca.chunk.js.map",
+    "runtime-main.js": "/BohdanYaremu/testapp/static/js/runtime-main.fcdcf205.js",
+    "runtime-main.js.map": "/BohdanYaremu/testapp/static/js/runtime-main.fcdcf205.js.map",
+    "static/js/2.9383c2d4.chunk.js": "/BohdanYaremu/testapp/static/js/2.9383c2d4.chunk.js",
+    "static/js/2.9383c2d4.chunk.js.map": "/BohdanYaremu/testapp/static/js/2.9383c2d4.chunk.js.map",
+    "index.html": "/BohdanYaremu/testapp/index.html",
+    "precache-manifest.956f734fd18f8b84d7229ae3dd8fce7a.js": "/BohdanYaremu/testapp/precache-manifest.956f734fd18f8b84d7229ae3dd8fce7a.js",
+    "service-worker.js": "/BohdanYaremu/testapp/service-worker.js",
+    "static/css/main.07161546.chunk.css.map": "/BohdanYaremu/testapp/static/css/main.07161546.chunk.css.map",
+    "static/js/2.9383c2d4.chunk.js.LICENSE.txt": "/BohdanYaremu/testapp/static/js/2.9383c2d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcdcf205.js",
+    "static/js/2.9383c2d4.chunk.js",
+    "static/css/main.07161546.chunk.css",
+    "static/js/main.d4edf2ca.chunk.js"
+  ]
+}
